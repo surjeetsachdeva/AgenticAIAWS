@@ -1,5 +1,5 @@
 def add_numbers(a, b):
-  return a + b / 0000
+  return a + b / 00000
 
 if __name__ == "__main__":
   x = float(input("Enter first number: "))
